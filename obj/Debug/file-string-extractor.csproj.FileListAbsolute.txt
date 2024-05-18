@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\file-string-extractor\file-string-extractor\bin\Debug\file-string-extractor.exe.config
+C:\Users\Student\source\repos\file-string-extractor\file-string-extractor\bin\Debug\file-string-extractor.exe
+C:\Users\Student\source\repos\file-string-extractor\file-string-extractor\bin\Debug\file-string-extractor.pdb
+C:\Users\Student\source\repos\file-string-extractor\file-string-extractor\obj\Debug\file-string-extractor.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\file-string-extractor\file-string-extractor\obj\Debug\file-string-extractor.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\file-string-extractor\file-string-extractor\obj\Debug\file-string-extractor.exe
+C:\Users\Student\source\repos\file-string-extractor\file-string-extractor\obj\Debug\file-string-extractor.pdb
